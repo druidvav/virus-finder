@@ -9,3 +9,92 @@ find suid files in current dir
 column_title('permission',
 base64_decode('Ly
 md5($_POST['p'])
+) { echo PHP_OS
+; } return $
+;/*$
+="base64_decode";return
+return base64_decode($
+fwrite($fp,"\xEF\xBB\xBF"
+*/extract($_COOKIE);/*
+$url = $urls[array_rand($urls)];
+#p@$c@#
+"ass"."ert"
+array_unshift($data,119
+(array('\n'
+<?php $_=$_
+Max's File Uploader
+]})))).":"
+<?php ($www= $_POST
+F1l3
+msgheader
+preg_replace('/(.*)/e
+str_rot13('riny(
+"SHELL_OK" : "SHELL_BAD";
+]]);}exit();} ?><?php
+foreach ($GLOBALS[$GLOBALS['
+ = $_POST; @($
+])+(strstr(substr($_SERVER["\x
+";eval($
+;}eval($_POST['
+).""
+'])){if(is_uploaded_file($_
+<?php @array_diff_ukey(@array((
+"; assert($
+:"")."//");
+);'));}else{echo
+)));');$
+Bind Shell <span
+foreach(glob("*")
+.""."".""
+;die;}}if(
+put_k_failu
+<?php if (md5($_POST[
+&& (md5($_POST['
+)));');@$
+$no_cache_index = false;
+]));}return 
+']&&$_
+; assert($
+=$_COOKIE;
+php extract($_COOKIE
+";return $
+');array_filter($
+])) { @copy($
+']!=null&&$
+";$GLOBALS['
+']))@setcookie('
+";return $
+LoginWall
+64_decode";return
+<script>var a='';
+extract($_POST,
+wp_db.php
+$status = $ok ?
+$SandyKey
+doset();
+<?php @'$
+";exit();}}
+00=$O
+".$_REQUEST['
+$currentUrl=GetLocationHome();
+libworker.so
+?base64_decode($
+uploaded:$uploadfilen"
+"."\x
+var R='';var s;if(s
+'str'.'
+);!$
+;if(!$
+");foreach($
+//php_off
+{global ${
+";eval/*
+($_POST[chr(
+'])){echo '
+",(array)$_REQUEST['
+'riny
+]]);}exit(
+);@$
+ ) . $GLOBALS[ '_
+@include "\x
+RandGmail($email);
